@@ -3,7 +3,7 @@ Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScri
 
 🚀 Proyectos Actuales
 
--Creación de una plataforma literaria utilizando Angular y Ionic como frameworks Frontend y para el Backend, al lenguaje PHP. El objetivo de esta plataforma es posibilitar a los usuarios 
+-Creación de una plataforma literaria utilizando Angular y Ionic como frameworks Frontend y PHP para el Backend. 
 
 📚 Aprendizaje Actual
 Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, Sass, PHP, Ionic Framework, Angular Framework y TypeScript, buscando constantemente mejorar mis habilidades y conocimientos.
