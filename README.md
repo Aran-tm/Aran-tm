@@ -1,19 +1,24 @@
-### Hi there 👋
+Hola, soy Aran Dev 👋
+Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web.
 
-<!--
-**Aran-tm/Aran-tm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Habilidades y Tecnologías
+JavaScript: Poseeo una base en el lenguaje JavaScript, la cual me permite construir aplicaciones web dinámicas y eficientes.
+HTML5: Construyendo la estructura de mis proyectos web, asegurando que sean accesibles y semánticamente correctas.
+CSS3: Aplicando estilos y diseños responsivos para que mis aplicaciones web se vean geniales en cualquier dispositivo.
+Sass: Utilizando Sass para escribir CSS más mantenible y escalable.
+PHP: Creando backends robustos y seguros para mis aplicaciones web.
+Ionic Framework: Desarrollando aplicaciones móviles híbridas con tecnología web.
+Angular Framework: Construyendo aplicaciones web de una sola página (SPA) con Angular.
+TypeScript: Mejorando la calidad del código y la productividad con TypeScript.
 
-Here are some ideas to get you started:
+🚀 Proyectos Actuales
+Proyecto 1: Creación de una plataforma literaria utilizando Angular y Ionic como frameworks Frontend y para el Backend, al lenguaje PHP. El objetivo de esta plataforma es posibilitar a los usuarios 
+Proyecto 2: En preparación...
+📚 Aprendizaje Actual
+Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, Sass, PHP, Ionic Framework, Angular Framework y TypeScript, buscando constantemente mejorar mis habilidades y conocimientos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Cómo contactarme
+Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en enviarme un mensaje.
 
 
 ## 🌐 Socials:
