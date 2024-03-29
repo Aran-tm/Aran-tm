@@ -1,9 +1,5 @@
-Hola, soy Aran Dev 👋
-Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web.
-
-🚀 Proyectos Actuales
-
--Creación de una plataforma literaria utilizando Angular y Ionic como frameworks Frontend y PHP para el Backend. 
+🚀 Hola, soy Aran Dev 👋
+Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web. 
 
 📚 Aprendizaje Actual:
 Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, Sass, PHP, Ionic Framework, Angular Framework y TypeScript, buscando constantemente mejorar mis habilidades y conocimientos.
