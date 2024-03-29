@@ -2,18 +2,21 @@ Hola, soy Aran Dev 👋
 Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web.
 
 🛠️ Habilidades y Tecnologías
-JavaScript: Poseeo una base en el lenguaje JavaScript, la cual me permite construir aplicaciones web dinámicas y eficientes.
-HTML5: Construyendo la estructura de mis proyectos web, asegurando que sean accesibles y semánticamente correctas.
-CSS3: Aplicando estilos y diseños responsivos para que mis aplicaciones web se vean geniales en cualquier dispositivo.
-Sass: Utilizando Sass para escribir CSS más mantenible y escalable.
-PHP: Creando backends robustos y seguros para mis aplicaciones web.
-Ionic Framework: Desarrollando aplicaciones móviles híbridas con tecnología web.
-Angular Framework: Construyendo aplicaciones web de una sola página (SPA) con Angular.
-TypeScript: Mejorando la calidad del código y la productividad con TypeScript.
+
+1- JavaScript: Poseeo una base en el lenguaje JavaScript, la cual me permite construir aplicaciones web dinámicas y eficientes.
+2- HTML5: Construyendo la estructura de mis proyectos web, asegurando que sean accesibles y semánticamente correctas.
+3- CSS3: Aplicando estilos y diseños responsivos para que mis aplicaciones web se vean geniales en cualquier dispositivo.
+4- Sass: Utilizando Sass para escribir CSS más mantenible y escalable.
+5- PHP: Creando backends robustos y seguros para mis aplicaciones web.
+6- Ionic Framework: Desarrollando aplicaciones móviles híbridas con tecnología web.
+7- Angular Framework: Construyendo aplicaciones web de una sola página (SPA) con Angular.
+8- TypeScript: Mejorando la calidad del código y la productividad con TypeScript.
 
 🚀 Proyectos Actuales
+
 Proyecto 1: Creación de una plataforma literaria utilizando Angular y Ionic como frameworks Frontend y para el Backend, al lenguaje PHP. El objetivo de esta plataforma es posibilitar a los usuarios 
 Proyecto 2: En preparación...
+
 📚 Aprendizaje Actual
 Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, Sass, PHP, Ionic Framework, Angular Framework y TypeScript, buscando constantemente mejorar mis habilidades y conocimientos.
 
