@@ -5,7 +5,7 @@ Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScri
 Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, Sass, TailwindCSS, PHP, Ionic Framework, Angular Framework y TypeScript, buscando constantemente mejorar mis habilidades y conocimientos.
 
 📫 Cómo contactarme ?
-Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en contactarme 😉
+Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en escribirme 😉
 
 
 ## 🌐 Socials:
