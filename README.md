@@ -2,7 +2,7 @@
 Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web. 
 
 📚 Aprendizaje Actual:
-Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, TypeScript, Sass, TailwindCSS, Ionic framework y Angular, buscando constantemente mejorar mis habilidades y conocimientos.
+Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, TypeScript, Sass, TailwindCSS, React, Angular y Ionic Framework, buscando constantemente mejorar mis habilidades y conocimientos.
 
 📫 Cómo contactarme ?
 Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en escribirme 😉
