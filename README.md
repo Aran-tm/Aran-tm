@@ -1,12 +1,9 @@
-🚀 Hola, soy Aran Dev 👋
-Soy un apasionado desarrollador web frontend con un enfoque especial en JavaScript. Mi objetivo es crear experiencias web increíbles y significativas para los usuarios, utilizando las últimas tecnologías y mejores prácticas en el desarrollo web. 
+🚀 Hi, I'm Aran Dev 👋 Passionate Frontend Web Developer with a special focus on JavaScript. My goal is to create amazing and meaningful web experiences for users, using the latest technologies and best practices in web development.
 
-📚 Aprendizaje Actual:
-Actualmente, estoy profundizando en el estudio de HTML5, CSS3, JavaScript, TypeScript, Sass, TailwindCSS, React, Angular y Ionic Framework, buscando constantemente mejorar mis habilidades y conocimientos.
+📚 Current Learning: I am delving into the study of HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS, React, Angular and Ionic Framework, constantly seeking to improve my skills and knowledge 😎
 
-📫 Cómo contactarme ?
-Si tienes alguna pregunta, sugerencia o simplemente quieres saludar, no dudes en escribirme 😉
-
+📫 How to contact me ?
+If you have any questions, suggestions or just want to say hello, don't hesitate to write to me 😉
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/armandotravies)
