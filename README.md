@@ -18,7 +18,7 @@ If you have any questions, suggestions or just want to say hello, don't hesitate
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran-tm&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
