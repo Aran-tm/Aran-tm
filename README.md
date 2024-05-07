@@ -13,14 +13,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/armando.t.montes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aran-dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armando_rtm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20873445) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aran_tm) 
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aran-tm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=aran-tm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&theme=tokyonight&hide_border=false) 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFhbnNxY25yZnBvNTNpMnB1NGF1NTV6M2hqdWN2Z3phdjZ5NmY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFhbnNxY25yZnBvNTNpMnB1NGF1NTV6M2hqdWN2Z3phdjZ5NmY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="900" height="300">
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
