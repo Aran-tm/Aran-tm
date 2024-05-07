@@ -6,7 +6,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-
 ---
 
 # 💻 Tech Stack:
@@ -17,20 +16,14 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/armando_rtm) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20873445) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/aran_tm)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aran-tm&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aran-tm&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aran-tm&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aran-tm&show_icons=true&locale=en&layout=compact" alt="aran-tm" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aran-tm&show_icons=true&locale=en" alt="aran-tm" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&" alt="aran-tm" /></p>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aran-tm&show_icons=true&locale=en&layout=compact" alt="aran-tm" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aran-tm&show_icons=true&locale=en" alt="aran-tm" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&" alt="aran-tm" /></p>
