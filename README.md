@@ -17,13 +17,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aran-tm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=aran-tm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&theme=tokyonight&hide_border=false) 
 
----
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFhbnNxY25yZnBvNTNpMnB1NGF1NTV6M2hqdWN2Z3phdjZ5NmY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="600">
 
----
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
