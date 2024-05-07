@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armando Roberto Travieso Montes</h1>
 <h3 align="center">Frontend Web Developer 😎 </h3>
 
-<p align="left"> ![](https://visitcount.itsvg.in/api?id=Aran-tm&icon=0&color=6)(https://visitcount.itsvg.in) </p>
+[![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aran-tm" alt="aran-tm" /></a> </p>
@@ -43,3 +43,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aran-tm&show_icons=true&locale=en" alt="aran-tm" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&" alt="aran-tm" /></p>
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aran-tm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aran-tm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
