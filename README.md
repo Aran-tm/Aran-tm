@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aran Dev</h1>
-<h3 align="center">Frontend Web Developer 😎 [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)</h3>
+<h3 align="center">Frontend Web Developer 😎 </h3> [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
