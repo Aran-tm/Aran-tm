@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armando Roberto Travieso Montes</h1>
-<h3 align="center">Passionate Frontend Web Developer with a special focus on JavaScript. My goal is to create amazing and meaningful web experiences for users, using the latest technologies and best practices in web development. 📚 Current Learning: I am delving into the study of HTML5, CSS3, TailwindCSS, JavaScript, TypeScript, Angular and Ionic, constantly seeking to improve my skills and knowledge 😎 </h3>
-
-<p align="left"> [![](https://visitcount.itsvg.in/api?id=Aran-tm&icon=0&color=6)](https://visitcount.itsvg.in) </p>
+<h3 align="center">Frontend Web Developer 😎 </h3>
+[![](https://visitcount.itsvg.in/api?id=Aran-tm&icon=0&color=6)](https://visitcount.itsvg.in)
 
 ---
 
