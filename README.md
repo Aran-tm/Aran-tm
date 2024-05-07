@@ -1,3 +1,5 @@
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFhbnNxY25yZnBvNTNpMnB1NGF1NTV6M2hqdWN2Z3phdjZ5NmY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="300">
+
 <h1 align="center"> Hi 👋, I'm Aran Dev </h1>
   <h3 align="left">I'm a passionate Frontend Web Developer with a special focus on JavaScript 😎 My goal is to create amazing and meaningful web experiences for clients, using the latest technologies and best practices in web development 😉</h3> 
 
@@ -22,5 +24,3 @@
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXFhbnNxY25yZnBvNTNpMnB1NGF1NTV6M2hqdWN2Z3phdjZ5NmY0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="1200" height="300">
