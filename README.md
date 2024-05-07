@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aran Dev</h1>
 <h3 align="left"> I'm a passionate Frontend Web Developer with a special focus on JavaScript. My goal is to create amazing and meaningful web experiences for clients, using the latest technologies and best practices in web development. 📚 Current Learning: Currently, I am delving into the study of HTML5, CSS3, JavaScript, TypeScript, TailwindCSS, Angular, and Ionic, constantly seeking to improve my skills and knowledge 😉 </h3>
-<img src="https://media1.tenor.com/images/f016efdfb2ff6689d2dc6c921b8a7f3c/tenor.gif?itemid=8749684" alt="gif animado"/>
+<img src="https://media1.tenor.com/images/f016efdfb2ff6689d2dc6c921b8a7f3c/tenor.gif?itemid=8749684" alt="gif animado" width="60px" height="60px"/>
 
 [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 
