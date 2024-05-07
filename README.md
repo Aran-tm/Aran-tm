@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armando Roberto Travieso Montes</h1>
 <h3 align="center">Frontend Web Developer 😎 </h3>
 
-<p align="left"> [![](https://visitcount.itsvg.in/api?id=Aran-tm&icon=0&color=6)](https://visitcount.itsvg.in) </p>
+<p align="left"> ![](https://visitcount.itsvg.in/api?id=Aran-tm&icon=0&color=6)(https://visitcount.itsvg.in) </p>
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aran-tm" alt="aran-tm" /></a> </p>
