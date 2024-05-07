@@ -1,16 +1,8 @@
-<h1 align="center">Hi 👋, I'm Armando Roberto Travieso Montes</h1>
+<h1 align="center">Hi 👋, I'm Aran Dev</h1>
 <h3 align="center">Frontend Web Developer 😎 </h3>
 
 [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 ---
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aran-tm" alt="aran-tm" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/armando.t.montes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aran-dev)
