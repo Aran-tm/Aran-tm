@@ -6,7 +6,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,mysql,postgres,netlify,vercel,postman,fastapi,npm,pnpm,git,github,vscode,windows,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,angular,vite,mysql,postgres,netlify,vercel,postman,npm,pnpm,git,github,vscode,windows,discord" />
   </a>
 </p>
 
