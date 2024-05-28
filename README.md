@@ -6,7 +6,7 @@
 ## 💻 Tech Stack:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,mysql,netlify,npm,pnpm,postgres,postman,sass,tailwind,ts,vercel,vscode,vite,git,windows,github,fastapi,discord" />
   </a>
 </p>
 
