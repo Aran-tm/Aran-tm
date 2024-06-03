@@ -1,5 +1,8 @@
 <h1 align="center"> Hi 👋, I'm Aran Dev </h1>
   <h3 align="left">I'm a passionate Frontend Web Developer with a special focus on JavaScript 😎 My goal is to create amazing and meaningful web experiences for clients, using the latest technologies and best practices in web development 😉</h3> 
+  
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 
@@ -22,9 +25,6 @@
 ## GitHub Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aran-tm&theme=tokyonight&utcOffset=8)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
