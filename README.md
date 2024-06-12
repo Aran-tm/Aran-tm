@@ -19,6 +19,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=aran-tm&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aran-tm&theme=tokyonight&hide_border=false)
 
+![snake gif](https://github.com/Aran-tm/Aran-tm/blob/output/github-contribution-grid-snake.gif)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aran-tm&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aran-tm&theme=tokyonight&utcOffset=8)
 
 ## 🔝 Top Contributed Repo
