@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Aran Dev </h1>
-  <h3 align="left">I'm a passionate Frontend Web Developer with a special focus on JavaScript 😎 My goal is to create amazing and meaningful web experiences for clients, using the latest technologies and best practices in web development 😉</h3>
+  <h3 align="left">Hi! 👋 I’m Armando Roberto Travieso, a Computer Science Engineer and Senior Angular Developer with over 4 years of experience collaborating with companies in the US and Spain. I specialize in designing scalable architectures under the Model-View pattern, utilizing Angular Signals, Redux, and Signal Store to maximize the performance and reactivity of complex applications ⚡. I have professional English proficiency and a solid track record of developing custom components and optimizing user experience in international environments 🛠️. I am ready to join high-impact teams seeking technical excellence and cutting-edge frontend solutions 🚀.</h3>
 
 [![](https://visitcount.itsvg.in/api?id=aran-tm&icon=0&color=1)](https://visitcount.itsvg.in)
 
