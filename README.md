@@ -126,7 +126,7 @@ const aran = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aran-tm&theme=codeSTACKr" width="100%" alt="Profile Details"/>
   <table>
     <tr>
-      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aran-tm&theme=codeSTACKr" alt="Summary Stats"/></td>
+      <td><img src="https://gh-readme-stats.vercel.app/api?username=Aran-tm&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats & Rank"/></td>
       <td><img src="https://streak-stats.demolab.com/?user=Aran-tm&theme=codeSTACKr&hide_border=false" alt="Streak"/></td>
     </tr>
     <tr>
@@ -135,6 +135,17 @@ const aran = {
     </tr>
   </table>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aran-tm&theme=codeSTACKr&utcOffset=8" alt="Productive Time"/>
+</div>
+
+<!-- Animated rainbow divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+## <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Activities/Trophy.png" width="35" /> GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=onedark&no-frame=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  </a>
 </div>
 
 <!-- Animated rainbow divider -->
