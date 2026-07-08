@@ -31,6 +31,10 @@
   <img src="https://komarev.com/ghpvc/?username=Aran-tm&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
 
+<!-- Readme Stats -->
+<td><img src="https://gh-readme-stats.vercel.app/api?username=Aran-tm&theme=codeSTACKr&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats & Rank"/></td>
+<td><img src="https://streak-stats.demolab.com/?user=Aran-tm&theme=codeSTACKr&hide_border=false" alt="Streak"/></td>
+
 <!-- Animated rainbow divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
