@@ -25,7 +25,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="mailto:armandortmontes@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" width="60" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/Tarikul-Islam-Anik/Animated-Fluent-Emojis@master/Emojis/Objects/E-Mail.png" width="60" alt="Email"/>
   </a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=Aran-tm&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
