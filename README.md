@@ -84,39 +84,26 @@ const aran = {
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aran-tm&theme=codeSTACKr" width="100%" alt="Profile Details"/>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Aran-tm&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Aran-tm&theme=codeSTACKr&hide_border=false" alt="Streak"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aran-tm&theme=codeSTACKr" alt="Summary Stats"/></td>
+      <td><img src="https://streak-stats.demolab.com/?user=Aran-tm&theme=codeSTACKr&hide_border=false" alt="Streak"/></td>
     </tr>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aran-tm&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aran-tm&theme=codeSTACKr" alt="Summary Stats"/></td>
-    </tr>
-    <tr>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aran-tm&theme=codeSTACKr" alt="Repos per Language"/></td>
-      <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aran-tm&theme=codeSTACKr" alt="Most Commit Language"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aran-tm&theme=codeSTACKr" alt="Repos per Language"/></td>
+      <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aran-tm&theme=codeSTACKr" alt="Most Commit Language"/></td>
     </tr>
   </table>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aran-tm&theme=codeSTACKr" width="100%" alt="Profile Details"/>
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aran-tm&theme=codeSTACKr&utcOffset=8" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aran-tm&theme=codeSTACKr&utcOffset=8" alt="Productive Time"/>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aran-tm&theme=juicyfresh&no-frame=true&margin-w=8&column=7" alt="Trophies"/>
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aran-tm&limit=5&theme=codeSTACKr&combine_all_yearly_contributions=true" alt="Top Contributed Repos"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aran-tm&theme=react-dark&hide_border=false&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
